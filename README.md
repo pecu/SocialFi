@@ -9,7 +9,9 @@
 
 設備需求：自備筆電
 
-上課軟體：VSCode、Python、Discord、GitHub、
+上課軟體：VSCode、Python、Discord、GitHub、Medium
+
+課程投影片：https://docs.google.com/presentation/d/1_SAiK527vE25tBocnlLKpMtVPsYXVWO1FuazQayWAN4/edit?usp=sharing
 
 ### 2022年8月2日課程內容
 
