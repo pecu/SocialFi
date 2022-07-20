@@ -13,7 +13,7 @@ async def on_ready():
     c = bot.get_channel(channel_id)
     await c.send('>> Bot is on ready <<')
 
-img_path = ['imgs\sample_img1.png', 'imgs\sample_img1.png']    # Change it
+img_path = ['imgs\sample_img1.png', 'imgs\sample_img2.png']    # Change it
 
 @bot.command()
 async def local_img(ctx: cmds.Context):
