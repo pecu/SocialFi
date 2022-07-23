@@ -13,7 +13,7 @@ async def on_ready():
     c = bot.get_channel(channel_id)
     await c.send('>> Bot is on ready <<')
 
-@bot.event
+@bot.command()
 async def say_hi (ctx: cmds.Context):
     await ctx.send('starbuststream')    # change it
 
