@@ -1,6 +1,5 @@
 import discord as dc
 import discord.ext.commands as cmds
-import random
 
 channel_id = 1234567890     # Change it
 token = 'starbuststream'    # Change it
